@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cb2b366-fb9f-4bb0-9802-89155b3382d0" name="Default Changelist" comment="" />
+    <list default="true" id="6cb2b366-fb9f-4bb0-9802-89155b3382d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recipe.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/recipe.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZSevhZoFdg1KGjAFhPNyaCjXfI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunManager">
@@ -62,22 +71,22 @@
       <screen x="0" y="768" width="1366" height="768" />
     </state>
     <state x="434" y="1035" width="488" height="256" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.768.1366.768/0.0.1360.768@0.768.1366.768" timestamp="1584838839997" />
-    <state width="1320" height="176" key="GridCell.Tab.0.bottom" timestamp="1584840346698">
+    <state width="1320" height="176" key="GridCell.Tab.0.bottom" timestamp="1585093359570">
       <screen x="0" y="768" width="1366" height="768" />
     </state>
-    <state width="1320" height="176" key="GridCell.Tab.0.bottom/0.768.1366.768/0.0.1360.768@0.768.1366.768" timestamp="1584840346698" />
-    <state width="1320" height="176" key="GridCell.Tab.0.center" timestamp="1584840346697">
+    <state width="1320" height="176" key="GridCell.Tab.0.bottom/0.768.1366.768/0.0.1360.768@0.768.1366.768" timestamp="1585093359570" />
+    <state width="1320" height="176" key="GridCell.Tab.0.center" timestamp="1585093359570">
       <screen x="0" y="768" width="1366" height="768" />
     </state>
-    <state width="1320" height="176" key="GridCell.Tab.0.center/0.768.1366.768/0.0.1360.768@0.768.1366.768" timestamp="1584840346697" />
-    <state width="1320" height="176" key="GridCell.Tab.0.left" timestamp="1584840346697">
+    <state width="1320" height="176" key="GridCell.Tab.0.center/0.768.1366.768/0.0.1360.768@0.768.1366.768" timestamp="1585093359570" />
+    <state width="1320" height="176" key="GridCell.Tab.0.left" timestamp="1585093359569">
       <screen x="0" y="768" width="1366" height="768" />
     </state>
-    <state width="1320" height="176" key="GridCell.Tab.0.left/0.768.1366.768/0.0.1360.768@0.768.1366.768" timestamp="1584840346697" />
-    <state width="1320" height="176" key="GridCell.Tab.0.right" timestamp="1584840346698">
+    <state width="1320" height="176" key="GridCell.Tab.0.left/0.768.1366.768/0.0.1360.768@0.768.1366.768" timestamp="1585093359569" />
+    <state width="1320" height="176" key="GridCell.Tab.0.right" timestamp="1585093359570">
       <screen x="0" y="768" width="1366" height="768" />
     </state>
-    <state width="1320" height="176" key="GridCell.Tab.0.right/0.768.1366.768/0.0.1360.768@0.768.1366.768" timestamp="1584840346698" />
+    <state width="1320" height="176" key="GridCell.Tab.0.right/0.768.1366.768/0.0.1360.768@0.768.1366.768" timestamp="1585093359570" />
     <state x="0" y="0" width="710" height="768" key="find.popup" timestamp="1584838456154">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
